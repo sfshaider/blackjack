@@ -1,0 +1,29 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hand {
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  gap: 10px;
+}
+
+.card img {
+  width: 100px;
+  height: auto;
+}
+
+.game-controls {
+  margin-top: 20px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
